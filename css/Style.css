@@ -1,0 +1,156 @@
+body{
+    background-image: url("../BackGround/Back.jpeg");
+    background-size: 100%;
+}
+
+.Logo{
+    width: 100%;
+    align-items: stretch;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    margin-left: 70px;
+    background-color: #BA9F67;
+    margin-right: 70px;
+    margin-bottom: 50px;
+    padding: 15px;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+}
+.Qvevri{
+        height: 200px;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
+}
+.offnungzeit{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.offnung{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+.zeit{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 25px;
+}
+.zeit1{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 25px;
+}
+.zeit2{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 25px;
+}
+.zeit3{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 25px;
+}
+.zeit4{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 25px;
+}
+.Ruhe{
+    color: #1E3C20;
+    font-family: cursive;
+    font-size: 30px;
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+
+/* .map{
+    height: auto;
+    width: auto;
+} */
+
+
+.Social{
+    text-align: center;
+}
+/* .Facebook{
+
+} */
+.Instagram{
+    color: #1E3C20;
+    font-size: 25px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+.Instagram:hover{
+    color: #1E3C20;
+}
+.Mail{
+    color: #1E3C20;
+    font-size: 25px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+.Mail:hover{
+    color: #1E3C20;
+}
+.inst{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.Contact{
+    text-align: center;
+}
+.Phone{
+    color: #1E3C20;
+    font-size: 25px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+
+.Phone:hover{
+    color: #1E3C20;
+    cursor: pointer;
+
+}
+.Strasse{
+    color: #1E3C20;
+    font-size: 25px;
+    display: block;
+    font-family:cursive;
+}
+.Strasse:hover{
+    color: #1E3C20;
+}
+.up{
+    border: 2px solid #1E3C20;
+    border-radius: 5px;
+}
+.down{
+    border: 2px solid #1E3C20;
+    border-radius: 5px;
+}
